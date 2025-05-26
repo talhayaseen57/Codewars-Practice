@@ -25,3 +25,21 @@ Each problem includes:
 * ✅ Multiple difficulty levels attempted
 * ✅ Clean and well-commented code
 * ✅ Thought process documented for each kata
+
+## 🛠 How to Run
+
+To test a solution:
+
+```bash
+node JavaScript/8kyu/example-problem.js
+```
+
+Make sure you have Node.js installed.
+
+## 🌱 What's Next?
+
+* Expand to more kyu levels
+* Practice daily and iterate solutions
+* Add support for other programming languages in future
+
+> 💬 Feel free to fork or follow along if you're also on a Codewars journey!
