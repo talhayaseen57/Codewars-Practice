@@ -10,6 +10,7 @@ I'm starting with **JavaScript**, and will expand to other languages over time. 
 ```
 JavaScript/
 ├── 8kyu/         # Beginner level problems
+├── 7kyu/         # Beginner level problems
 └── ... so on
 ````
 
@@ -21,7 +22,7 @@ Each problem includes:
 
 ## 📈 Current Progress
 
-* ✅ 5+ problems solved
+* ✅ 10+ problems solved
 * ✅ Multiple difficulty levels attempted
 * ✅ Clean and well-commented code
 * ✅ Thought process documented for each kata
