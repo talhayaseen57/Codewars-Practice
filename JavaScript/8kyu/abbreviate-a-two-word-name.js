@@ -9,7 +9,6 @@ function abbrevName(name){
   //    console.log(n);
   //    alphabets.push(n.charAt(0).toUpperCase())
   //  }
-  //console.log(alphabets)
   //return name.split(x => x.charAt(0).toUpperCase()).join(".");
   //return alphabets.join('.');
   
