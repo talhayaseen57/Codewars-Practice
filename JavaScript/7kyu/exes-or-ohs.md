@@ -35,6 +35,7 @@ function XO(str) {
 
 ## 🔁 Alternate Approach (Using `.toLowerCase()` and Manual Count)
 
+```js
 function XO(str) {
   str = str.toLowerCase();
   let xCount = 0, oCount = 0;
@@ -46,6 +47,7 @@ function XO(str) {
 
   return xCount === oCount;
 }
+```
 
 * A bit longer but **does not rely on regex**, which can be helpful in constrained environments or interviews.
 
