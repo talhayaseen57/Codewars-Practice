@@ -22,7 +22,7 @@ Each problem includes:
 
 ## 📈 Current Progress
 
-* ✅ 10+ problems solved
+* ✅ 15+ problems solved
 * ✅ Multiple difficulty levels attempted
 * ✅ Clean and well-commented code
 * ✅ Thought process documented for each kata
